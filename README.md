@@ -11,3 +11,4 @@ Se encuentra distribuido en varios archivos de trabajo
 
 5. Aunque no se ve estan bases de Git y GitHub
 > En esta seccion se encuentran bases de la programacion con python, desde la creacion de variables hasta trabajo con funciones.
+Creado por malexium
